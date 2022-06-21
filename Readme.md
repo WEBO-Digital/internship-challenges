@@ -4,9 +4,9 @@ Thank you for your interest in interning with us at WEBO Digital Pvt Ltd.
 
 Here are the list of the internship challenges. Please choose one of the following specialism areas below and complete the challenge. Pick the area in which you feel you are strongest and most accomplished.
 
-* [Frontend](https://github.com/nirazanbasnet/internship-challenges/tree/main/frontend)
-* [Backend](https://github.com/nirazanbasnet/internship-challenges/tree/main/frontend)
-* [QA](https://github.com/nirazanbasnet/internship-challenges/tree/main/frontend)
+* [Frontend](https://github.com/WEBO-Digital/internship-challenges/tree/dev/Frontend)
+* [Backend](https://github.com/WEBO-Digital/internship-challenges/tree/dev/Backend)
+* [QA](https://github.com/WEBO-Digital/internship-challenges/tree/dev/QA)
 
 After choosing the career of interest and the completion of the challenge, please submit your application from [here](https://share.hsforms.com/1gGjzh_c2Q-uvJLbyNi6XwA4al8l). 
 
