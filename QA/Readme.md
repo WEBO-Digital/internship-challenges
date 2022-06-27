@@ -6,7 +6,7 @@
 
 #### Problem
 
-1. Open the QA Intern Assignment using this file.
+1. Open the QA Intern Assignment using the above file.
 2. Once open, you'll see a complete set of questions.
 3. Do some research and answer all, in your own words.
 4. Once the assignment is done, submit your application with the proper filename.
