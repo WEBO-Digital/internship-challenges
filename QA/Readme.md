@@ -22,7 +22,7 @@ We'll be looking into the following aspects of your assignment and using them as
 
 #### Submission
 
-After completion the task, submit your profile information and application form [here](https://share.hsforms.com/1gGjzh_c2Q-uvJLbyNi6XwA4al8l). 
+After completion the task, please submit your profile information and application form [here](https://forms.gle/uGUHKif6YoLMh2Mc7). 
 
 Good Luck!
 
