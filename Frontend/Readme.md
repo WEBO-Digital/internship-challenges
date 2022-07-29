@@ -2,10 +2,10 @@
 
 ### What you need to do
 
-* If you haven't github account, create one to submit your task
+* If you don't have github account, please create one to submit your task
 * Take a [git class in codeschool](https://www.codeschool.com/courses/try-git). (If you do not know git)
 * Once complete, create a public repo called “webo-frontend-internship-challenge” in your github account
-* Solve the problem detailed below
+* Solve the problem given below
 * Push your code to the repo (make sure that you have multiple commits with proper messages) 
 * Submit your application
 
@@ -30,7 +30,7 @@ We'll be looking into following aspects of your assignment and using them as jud
 
 #### Submission
 
-After completion the task, submit your profile information and application form [here](https://share.hsforms.com/1gGjzh_c2Q-uvJLbyNi6XwA4al8l). 
+After completing the task, please submit your profile information and application form [here](https://forms.gle/GYPc8K1JGiDMNihr9). 
 
 Good Luck!
 
