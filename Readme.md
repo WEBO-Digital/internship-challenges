@@ -2,7 +2,7 @@
 
 We are glad to know that your are interested in doing internship at WEBO Digital Pvt Ltd. 
 
-Here are the list of the internship challenges. Please choose one of the following speciali areas below and complete the challenge.
+Here are the list of the internship challenges. Please choose one of the following specialised areas below and complete the challenge.
 
 * [Frontend](https://github.com/WEBO-Digital/internship-challenges/tree/dev/Frontend)
 * [Backend](https://github.com/WEBO-Digital/internship-challenges/tree/dev/Backend)
